@@ -1,13 +1,6 @@
 # 富文本
 
-## Tinymce
+## 那些开源好用的富文本编辑器
 
-> [Tinymce 官网](https://www.tiny.cloud/)
-
-## CKEditor
-
-> [CKEditor](https://ckeditor.com/)
-
-## WangEditor
-
-> [WangEditor 官网](https://www.wangeditor.com/)
+- [Tinymce](https://github.com/tinymce/tinymce)
+- [CKEditor](https://github.com/ckeditor/ckeditor5)
